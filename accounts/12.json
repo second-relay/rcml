@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "salomiya-alpha-app",
+  "private_key_id": "9bf4dd2c1d0078493ece560ea5b5df75467404c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZXqAPuKdPFBf9\nqP44/D9wSzug/Tpgj0VjqEr0ft3FM/HqcN1Z1kWpScC2YBtSvatiJsqbW2u7FOFE\nKrZhw9pJ98bu/i7pWqS+VTvTWwTaZ2RAABYcIIAia0ZoBQ6dPa6QTPA+LHC3QXH0\nnu8TCZ7gMvSZJPR1fy5xAo6AxSl2hBtAFRmZuSMoD6NRcwVYaUgZg7dpETe0oEKl\nLdI1m9489ODFUA/H/rDyhhKcV3l9740D6mPT/4dbDW9c9FWGEvS22wrtQiWvNjUU\nH/1hEzBzOFmYuQxTXr6i1XJ89d+H75T1tzVRkkiNep0B9iofO1FyeX5zfpp98C8p\n0LEaafgTAgMBAAECggEACF8YkwJtjyIa+m3zvIYae1yqYzzdbrKV3YyxtlDcgafK\nfVjzbW5PKIHqpht1ce5UF2efDfSrZX0cX9+1PnaohYjBZJrte5c+GQZ3U2CCA1dQ\nCRb3wwWNacXv5DmtomipvGz6I6rafHRMyzsDwhvwvnm36d3+fDf1tex/SH5PZn0F\n02Pr5uo3W5pvmTUtApiEuGUZNYjyHtkvHgseTGAE1nDo4gpkVJY+sVVpcmnWf7c/\nG6+e1LqqO4T4f4rIB7q1xI0xx5BPMmRFuYXHGyRiDr0c55s1p1V3B3swqfL2MKVT\nUsVmEOqxFGxQX469YV58R3txi+Vof6FJtEMLDmubgQKBgQDwAyfQWVGEuUuHIXKz\n4HAICRwTVh6Irm9WufagaBsP1cVNNDGULuB8IGCRmdmH69/HY4bJVKo0K0f7qgBJ\nXkaA1UGAA/wmePJvXxcMKSXIafVeRz8EqymJdi7Q0tdG4tP9FDepJqzhqeq+ZzQq\nGnMB+//pALqi2kX73w6Q18UtEQKBgQDn2VoWQDCeP4W2ZEI5JkWXmpDcMy+TDSib\nquMtzA0OqSN5TXCZuVAuX1JBVOwz8tke/Wyt74/aEJzhL/vMnF0jOIakzKmFOfhM\nn/0c8PsUJO8JcevnwQuWCsCU+N1DfJYekLCNjjeOvODuCMs8dS0p8DbxnEDib/WG\ntcnnUCri4wKBgE+7DJ/W/BCWKXPzdZIxraXNuOjng+8t20i5MCerTcod3pQ+EXZD\neEljzBCyRiQ0BDvNYTpCiOQZuKjumXfF/K/RqBepuzrglNDQiux8QtPn9x3hlxqq\n7Xp/qx+t2tvugDOjYrYrZeT1OEkWKasO7EOtfh7eIiH1VqhMOh99vj+xAoGAb+do\no/S3gqoGT9J0ZEEktdfUs3PBMqjXQMtqe2BRrRHWHWZTQt8+5CL+AKqMl0ZPpbWM\nDyfhts7t6YLPdiLCkY1m74QZDkS8o79U2/M0PLTW6yghROrYPMNT0JONuFUZ4AbW\nMHzENBDWQA3ein/EHMnkuxk/+Asx5qM3oH4BNSECgYEAoZk0/xpJIryH7vnN3Ywb\ns1LHMkTEfaO/QAUhm/0DD5AttaHpREzZwj5gJ6LpPUKJGqCC5dnX7P4da6Fx0xH7\nmJsmpexr1yaR4GpoIVj9XGtSEi20Wb388AaLIaa7HkhK8NAgYtAILuAtqNuK7kL8\n+5IJV6Q+s6hjG2VnxeOuQRQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-p37g5kmascb7to1s9pw1tfp-w6@salomiya-alpha-app.iam.gserviceaccount.com",
+  "client_id": "108257389195810272650",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-p37g5kmascb7to1s9pw1tfp-w6%40salomiya-alpha-app.iam.gserviceaccount.com"
+}
